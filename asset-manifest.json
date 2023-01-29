@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/smartsales/static/css/main.f3164e55.css",
+    "main.js": "/smartsales/static/js/main.653b1381.js",
+    "static/js/787.0a872abf.chunk.js": "/smartsales/static/js/787.0a872abf.chunk.js",
+    "static/media/admin.png": "/smartsales/static/media/admin.bd645dd4c9b9f3d6ec55.png",
+    "static/media/logo.png": "/smartsales/static/media/logo.b925d6198dd396001553.png",
+    "static/media/person.png": "/smartsales/static/media/person.a80923620306e6eeadcb.png",
+    "static/media/missing.svg": "/smartsales/static/media/missing.74d8452303d82e8708111e271e712ff5.svg",
+    "static/media/delete.svg": "/smartsales/static/media/delete.b55234136053f024279413a5ecf49d25.svg",
+    "static/media/no_data.svg": "/smartsales/static/media/no_data.810627350e9ed2c1d963d2fe1dfac495.svg",
+    "index.html": "/smartsales/index.html",
+    "main.f3164e55.css.map": "/smartsales/static/css/main.f3164e55.css.map",
+    "main.653b1381.js.map": "/smartsales/static/js/main.653b1381.js.map",
+    "787.0a872abf.chunk.js.map": "/smartsales/static/js/787.0a872abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3164e55.css",
+    "static/js/main.653b1381.js"
+  ]
+}
